@@ -6,7 +6,7 @@
 
 <br>
 
-📌Stack <br><br>
+<h3>📌Stack</h3>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
