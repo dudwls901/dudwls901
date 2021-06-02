@@ -1,7 +1,6 @@
 
-<div align=center>
-
-<h2>Hi there 👋</h2>
+<div align=center><h2>Hi there 👋</h2></div>
+  <div align=center>
 <!--
 **dudwls901/dudwls901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
