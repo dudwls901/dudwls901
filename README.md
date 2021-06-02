@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋
 
 <!--
@@ -16,8 +17,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwls901&show_icons=true&theme=radical)
 <br>
-<div align=center>📌Stack</div>
-<center>📌Stack</center> <br>
+📌Stack <br><br>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=black"/></a>
 
+</div>
