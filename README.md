@@ -5,7 +5,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwls901&show_icons=true&theme=radical)
 
 <br>
-
+  
+<h3>🔔Blog</h3>
+  <a href="http://ongveloper.tistory.com">
+    <img 
+        src="https://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&link=https://ongveloper.tistory.com"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  
 <h3>📌Stack</h3>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/dudwls901" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
